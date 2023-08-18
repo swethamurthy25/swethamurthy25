@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">Experienced Software Engineer specializing in enterprise software development, adept at leading global teams, gathering requirements, and managing agile projects. Accomplished Data Analyst with 5 years of expertise in data-driven storytelling, establishing reporting standards, ETL processes, and collaborating with stakeholders for process improvements. Strong industry experience across diverse domains.</h3>
 
