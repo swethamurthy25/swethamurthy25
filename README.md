@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">Experienced Software Engineer specializing in enterprise software development, adept at leading global teams, gathering requirements, and managing agile projects. Accomplished Data Analyst with 5 years of expertise in data-driven storytelling, establishing reporting standards, ETL processes, and collaborating with stakeholders for process improvements. Strong industry experience across diverse domains.</h3>
+<h2 align="center">Experienced Software Engineer specializing in enterprise software development, adept at leading global teams, gathering requirements, and managing agile projects. Accomplished Data Analyst with 5 years of expertise in data-driven storytelling, establishing reporting standards, ETL processes, and collaborating with stakeholders for process improvements. Strong industry experience across diverse domains.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethamurthy25&label=Profile%20views&color=0e75b6&style=flat" alt="swethamurthy25" /> </p>
 
