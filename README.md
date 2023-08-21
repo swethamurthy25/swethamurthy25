@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Swetha Anantha Murthy
 =============================================================================================================================================
 
-Software Engineer | Data Enthusiast
+Software Engineer | Data Analyst
 -----------------------------------
 
 With a background spanning both Software Engineering and Data Analytics, I bring a versatile skill set to the table. As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. My expertise extends into Data Analytics, Data Engineering, and Machine Learning, with a strong command of SQL, data manipulation, ETL Pipelines, and visualization tools like Tableau. This proficiency in machine learning and predictive modeling empowers me to foster data-driven decision-making and pioneering innovation. By harmonizing these proficiencies, I excel at bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
