@@ -9,7 +9,7 @@ With a background spanning both Software Engineering and Data Analytics / Data E
 *   🌍  I'm based in Arizona, United States of America
 *   ✉️  You can contact me at [swethamurthy94@gmail.com, sanant15@asu.edu]
 *   🧠  I'm learning System Design and Machine Learning Models.
-*   🧠  I'm interested in working on a lot of small Data Science projects from Kaggle.
+*   🧠  I'm interested in working on numerous small Data Science projects from Kaggle.
 *   🤝  I'm open to collaborating on Real-time Live Projects.
 *   💬  Ask me about Programming in Python, PySpark, SQL Commands, Data Analytics, Visualization, and Data Engineering Concepts.
 
