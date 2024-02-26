@@ -6,12 +6,11 @@ Welcome to my Git Hub !!
 
 With a background spanning both Software Engineering and Data Analytics / Data Engineering Concepts, I bring a versatile skill set to the table. As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. My expertise extends into Data Analytics, Data Engineering, and Machine Learning, with a strong command of SQL, data manipulation, ETL Pipelines, and visualization tools like Tableau. This proficiency in machine learning and predictive modeling empowers me to foster data-driven decision-making and pioneering innovation. By harmonizing these proficiencies, I excel at bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
 
-*   🌍  I'm based in Arizona, United States of America
-*   ✉️  You can contact me at [swethamurthy94@gmail.com, sanant15@asu.edu]
-*   🧠  I'm learning System Design and Machine Learning Models.
+*   🧠  I'm currently learning System Design and Machine Learning Models.
 *   🧠  I'm interested in working on numerous small Data Science projects from Kaggle.
-*   🤝  I'm open to collaborating on Real-time Live Projects.
+*   🤝  I'm open to collaborating on Real-time Live Data Science & Software Projects.
 *   💬  Ask me about Programming in Python, PySpark, SQL Commands, Data Analytics, Visualization, and Data Engineering Concepts.
+*   ✉️  You can contact me at [swethamurthy94@gmail.com, sanant15@asu.edu]
 
 
 <h3 align="left">Technical Skills:</h3>
