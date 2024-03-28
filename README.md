@@ -24,6 +24,8 @@
   <a href="https://www.kaggle.com/swetha2507" target="_blank">
      <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=swethamurthy25.visitor-badge&left_color=red&right_color=green) 
 </div>
 
 <h4 align="left" style="display: inline-block; color: #000000;">🧠 Areas of Interest:</h4>
@@ -52,7 +54,7 @@ Passionate SDE: As an accomplished Software Engineer, I'm recognized for timely 
 <a href="https://www.hackerrank.com/swetha anantha murthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swetha anantha murthy" height="30" width="40" /></a>
 </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=swethamurthy25.visitor-badge&left_color=red&right_color=green) 
+
 
 
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethamurthy25&show_icons=true&theme=codeSTACKr)
