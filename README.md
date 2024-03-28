@@ -22,8 +22,11 @@
      <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://www.kaggle.com/swetha2507" target="_blank">
-     <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>   
+     <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> 
+  </a>  
+  <a href="https://public.tableau.com/app/profile/swetha.anantha.murthy/vizzes" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> 
+  </a> 
 </div>
 
 <h4 align="left" style="display: inline-block; color: #000000;">:sparkles: Data Science Experience:</h4>
