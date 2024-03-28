@@ -21,6 +21,9 @@
   <a href="https://leetcode.com/Swetha_Murthy/" target="_blank">
      <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.kaggle.com/swetha2507" target="_blank">
+     <img src="https://img.shields.io/badge/Kaggle-FF5722?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 
