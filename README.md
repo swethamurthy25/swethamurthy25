@@ -23,6 +23,8 @@ With a background spanning both Software Engineering and Data Analytics / Data E
 <a href="https://www.hackerrank.com/swetha anantha murthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swetha anantha murthy" height="30" width="40" /></a>
 </p>
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+
 
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethamurthy25&show_icons=true&theme=codeSTACKr)
 
