@@ -4,7 +4,6 @@
 
 <div>
 <h2 align="left">⚡My Short Intro⚡</h2>
-<br>
 </div>
 
 <div align="Left"> 
