@@ -32,8 +32,8 @@ Google Certified Data Professional with 5+ years of experience in diverse roles 
 <h4 align="left" style="display: inline-block; color: #000000;">:sparkles: SDE/SWE Experience: </h4>
 As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. 
 
-<h4 align="left" style="display: inline-block; color: #000000;">:boom: Areas of Interest: Data Engineering (Data processing, CI/CD Automation, ETL, Data Warehousing, Quality & Governance), Data Analytics & Visualization, Software Engineering</h4>
-<h4 align="left" style="display: inline-block; color: #000000;">:boom: Programming Lang: Python , Java, SQL, Shell/Bash Scripting (Unix/Linux) </h4>
+* <h4 align="left" style="display: inline-block; color: #000000;">:boom: Areas of Interest: </h4> <h4>Data Engineering (Data processing, CI/CD Automation, ETL, Data Warehousing, Quality & Governance), Data Analytics & Visualization, Software Engineering</h4>
+* <h4 align="left" style="display: inline-block; color: #000000;">:boom: Programming Lang: Python , Java, SQL, Shell/Bash Scripting (Unix/Linux) </h4>
 
 
 
