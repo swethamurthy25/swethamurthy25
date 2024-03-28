@@ -42,12 +42,7 @@ As an accomplished Software Engineer, I'm recognized for timely product delivery
 <br/>
 <div align="center">
     [![My Skills](https://skillicons.dev/icons?i=py,java,pytorch,figma&theme=light)](https://skillicons.dev)
-    <img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" />
-    ![image]({})
-    ![image]({BadgeURLHere})
-    ![image]({BadgeURLHere})
-    ![image]({BadgeURLHere})
-    ![image]({BadgeURLHere})
+    
   
     
     <br>
