@@ -41,7 +41,7 @@ As an accomplished Software Engineer, I'm recognized for timely product delivery
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,git," />
+    <img src="https://skillicons.dev/icons?i=html,css,github,git,Databricks,Dbt,Talend,Tableau" />
     <img src="https://skillicons.dev/icons?i=python,java,pandas,numpy" />
     <img src="https://skillicons.dev/icons?i=mysql,PostgreSQL,redshift,MongoDB,snowflake,oracle,saphana" />
     <br>
