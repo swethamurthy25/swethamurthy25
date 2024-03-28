@@ -28,10 +28,10 @@
   </a> 
 </div>
 
-<h4 align="left" style="display: inline-block; color: #000000;">:sparkles: Data Science Experience:</h4>
+<h4 align="left" style="display: inline-block; color: #FF8C00;">:sparkles: Data Science Experience:</h4>
 Google Certified Data Professional with 5+ years of experience in diverse roles as a Business Data Analyst (IT) and Senior Data Engineer. Possess outstanding analytical and problem-solving skills, motivated by self-drive, a commitment to continuous learning, and a fervor for addressing challenges. I excelled in bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
 
-<h4 align="left" style="display: inline-block; color: #000000;">:sparkles: SDE/SWE Experience: </h4>
+<h4 align="left" style="display: inline-block; color: #FF8C00;">:sparkles: SDE/SWE Experience: </h4>
 As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. 
 
 <h5 alight="left">
