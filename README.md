@@ -26,7 +26,9 @@
   </a>
 </div>
 
-<h4 align="left"> 🧠  Areas of Interest:</h4> <h5> <I> Data Engineering , Data Analytics & Visualization , Software Engineering</i> </h5>
+<h4 align="left" style="color: darkorange;"> 🧠  Areas of Interest:</h4>
+<h5> <i style="color: darkorange;"> Data Engineering, Data Analytics & Visualization, Software Engineering</i> </h5>
+
 
 
 Experienced Analytics and Data Professional with 5 years of experience in diverse roles as a Business Data Analyst (IT) and Senior Data Engineer. Possess outstanding analytical and problem-solving skills, motivated by self-drive, a commitment to continuous learning, and a fervor for addressing challenges. I excelled at bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
