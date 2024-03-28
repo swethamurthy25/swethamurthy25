@@ -2,11 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+There!+👋;+I'm+Swetha+Murthy!;" />
 </h1>
 
+<div>
 <h3 align="left">⚡My Short Intro⚡</h3>
 <br>
-
-<br/>
-
+</div>
 
 <div align="Left"> 
   <a href="mailto:swethamurthy94@gmail.com">
