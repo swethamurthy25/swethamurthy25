@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> 
   </a>  
   <a href="https://public.tableau.com/app/profile/swetha.anantha.murthy/vizzes" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> 
+  <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=Tableau&logoColor=red" target="_blank" /> 
   </a> 
 </div>
 
