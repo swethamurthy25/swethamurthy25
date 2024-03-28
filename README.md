@@ -33,3 +33,5 @@ With a background spanning both Software Engineering and Data Analytics / Data E
 <a href="https://github.com/swethamurthy25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethamurthy25&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)]([https://leetcode.com/hareeshprogrammer](https://leetcode.com/Kaushik372/))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
