@@ -19,7 +19,7 @@
      <img src="https://img.shields.io/badge/HackerRank--333333?style=for-the-badge&logo=hackerrank&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://leetcode.com/Swetha_Murthy/" target="_blank">
-     <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
