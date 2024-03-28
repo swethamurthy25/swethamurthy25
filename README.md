@@ -24,7 +24,7 @@
   <a href="https://www.kaggle.com/swetha2507" target="_blank">
      <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=swethamurthy25.visitor-     badge&left_color=black&right_color=green) 
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=swethamurthy25.visitor-     badge&left_color=black&right_color=green)     
 </div>
 
 <h4 align="left" style="display: inline-block; color: #000000;">🧠 Areas of Interest:</h4>
