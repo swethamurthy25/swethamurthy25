@@ -26,8 +26,8 @@
   </a>
 </div>
 
-<h4 align="left" style="color: darkorange;"> 🧠  Areas of Interest:</h4>
-<h5> <i style="color: black;"> Data Engineering, Data Analytics & Visualization, Software Engineering</i> </h5>
+<h4 align="left" style="color: #FF8C00;"> 🧠  Areas of Interest:</h4>
+<h5> <i style="color: #000000;"> Data Engineering, Data Analytics & Visualization, Software Engineering</i> </h5>
 
 
 
