@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-<h3 align="left">⚡My Short Intro⚡</h3>
+<h2 align="left">⚡My Short Intro⚡</h2>
 <br>
 </div>
 
