@@ -32,6 +32,7 @@ Google Certified Data Professional with 5+ years of experience in diverse roles 
 <h4 align="left" style="display: inline-block; color: #000000;">:sparkles: SDE/SWE Experience: </h4>
 As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. 
 
+<br>
 <div align="left">
  
  🔭 I’m currently working on Data Science projects
