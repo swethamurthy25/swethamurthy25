@@ -23,18 +23,19 @@
   </a>
   <a href="https://www.kaggle.com/swetha2507" target="_blank">
      <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=swethamurthy25.visitor-     badge&left_color=black&right_color=green)     
+  </a>   
 </div>
+
 
 <h4 align="left" style="display: inline-block; color: #000000;">🧠 Areas of Interest:</h4>
 <h5 style="display: inline-block; color: #000000;"> <i>Data Engineering, Data Analytics & Visualization, Software Engineering</i> </h5>
 
 
+<h4 align="left" style="display: inline-block; color: #000000;">🧠 Data Science Experience:</h4>
+ Certified Data Professional with 5+ years of experience in diverse roles as a Business Data Analyst (IT) and Senior Data Engineer. Possess outstanding analytical and problem-solving skills, motivated by self-drive, a commitment to continuous learning, and a fervor for addressing challenges. I excelled in bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
 
-Experienced Analytics and Data Professional with 5 years of experience in diverse roles as a Business Data Analyst (IT) and Senior Data Engineer. Possess outstanding analytical and problem-solving skills, motivated by self-drive, a commitment to continuous learning, and a fervor for addressing challenges. I excelled at bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
-
-Passionate SDE: As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. 
+<h4 align="left" style="display: inline-block; color: #000000;">🧠 SDE/SWE Experience: </h4>
+As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. 
 
 *   🧠  I'm currently learning System Design and Machine Learning Models.
 *   🧠  I'm interested in working on numerous small Data Science projects from Kaggle.
