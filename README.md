@@ -6,6 +6,21 @@
 <div align="left">
   <h2>⚡ My Short Intro ⚡</h2>
 
+   </div>
+ 
+<div align="Left"> 
+  <a href="mailto:swethamurthy94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="http://www.linkedin.com/in/swetha-anantha-murthy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/swethamurthy94" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+
 With a background spanning both Software Engineering and Data Analytics / Data Engineering Concepts, I bring a versatile skill set to the table. As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. My expertise extends into Data Analytics, Data Engineering, and Machine Learning, with a strong command of SQL, data manipulation, ETL Pipelines, and visualization tools like Tableau. This proficiency in machine learning and predictive modeling empowers me to foster data-driven decision-making and pioneering innovation. By harmonizing these proficiencies, I excel at bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
 
 *   🧠  I'm currently learning System Design and Machine Learning Models.
