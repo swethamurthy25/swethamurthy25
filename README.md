@@ -26,6 +26,9 @@
   </a>
 </div>
 
+<h4 align="left">Areas of Interest:</h4> <h5> Data Engineering , Data Analytics & Visualization , Software Engineering </h5>
+
+
 Experienced Analytics and Data Professional with 5 years of experience in diverse roles as a Business Data Analyst (IT) and Senior Data Engineer. Possess outstanding analytical and problem-solving skills, motivated by self-drive, a commitment to continuous learning, and a fervor for addressing challenges. I excelled at bridging the gap between technology and insights, ensuring that complex concepts translate into actionable choices that resonate with business goals.
 
 Passionate SDE: As an accomplished Software Engineer, I'm recognized for timely product delivery and proficiency in Python, Java, and scalable application development, aligning solutions with user needs and business objectives. 
