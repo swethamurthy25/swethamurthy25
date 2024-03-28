@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.hackerrank.com/profile/swethamurthy94" target="_blank">
-     <img src="https://img.shields.io/badge/HackerRank-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/HackerRank-FF5722?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://leetcode.com/Swetha_Murthy/" target="_blank">
-     <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
