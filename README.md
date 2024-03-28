@@ -30,6 +30,6 @@ With a background spanning both Software Engineering and Data Analytics / Data E
 
 <a href="http://www.github.com/swethamurthy25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swethamurthy25&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/Swetha_Murthy/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Swetha_Murthy?theme=dark&font=Hind%20Siliguri)](https://leetcode.com/Swetha_Murthy/)
 
 [![Swetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swethamurthy25&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/swethamurthy25/github-readme-activity-graph)
