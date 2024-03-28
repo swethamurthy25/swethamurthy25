@@ -41,7 +41,7 @@ As an accomplished Software Engineer, I'm recognized for timely product delivery
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+    [![My Skills](https://skillicons.dev/icons?i=py,java,pytorch,figma&theme=light)](https://skillicons.dev)
     <img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" />
     ![image]({})
     ![image]({BadgeURLHere})
