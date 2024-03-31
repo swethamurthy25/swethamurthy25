@@ -25,6 +25,7 @@
   <a href="https://public.tableau.com/app/profile/swetha.anantha.murthy/vizzes" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=Tableau&logoColor=red" target="_blank" /> 
   </a> 
+  ![](https://komarev.com/ghpvc/?username=swethamurthy25&style=flat-square&color=green)
 </div>
 
 <h4 align="left" style="display: inline-block; color: #FF8C00;">:sparkles: Data Science Experience:</h4>
