@@ -55,10 +55,8 @@ As an accomplished Software Engineer, I'm recognized for timely product delivery
 
 <br/>
 <h3 align="left">My Stats:</h3>
-
-<a href="http://www.github.com/swethamurthy25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swethamurthy25&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethamurthy25&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true&locale=en&layout=compact" alt="swethamurthy25" /></p>
+<a href="http://www.github.com/swethamurthy25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swethamurthy25&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Swetha_Murthy?theme=dark&font=Hind%20Siliguri)](https://leetcode.com/Swetha_Murthy/)
 
