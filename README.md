@@ -25,7 +25,7 @@
   <a href="https://public.tableau.com/app/profile/swetha.anantha.murthy/vizzes" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=Tableau&logoColor=red" target="_blank" /> 
   </a> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethamurthy25&label=Profile%20views&color=red&style=for-the-badge" alt="swethamurthy25"/> 
+  <img src="https://komarev.com/ghpvc/?username=swethamurthy25&label=Profile%20views&color=red&style=for-the-badge" alt="swethamurthy25"/> 
   </p>
 </div>
 
