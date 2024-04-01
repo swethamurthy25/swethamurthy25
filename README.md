@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-<h2 align="left">⚡My Short Intro⚡</h2>
+<h2 align="left"> 👩‍🎓My Short Intro </h2>
 </div>
 
 <div align="Left"> 
