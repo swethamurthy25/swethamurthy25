@@ -28,11 +28,9 @@
   </p>
 </div>
 
-<h4 align="left" style="display: inline-block; color: #FF8C00;">:</h4>
-
 <h5 alight="left">
 
-<h5> 🌱 I specialize in designing and scaling cloud-native data platforms, real-time pipelines, and API-integrated systems for enterprise clients across various industries, including smart home automation (IoT), renewable energy, aviation, and retail </h5>
+<h4> I'm a Senior Data Engineer specializing in building scalable, cloud-native data platforms using Snowflake, dbt, GCP, and Python-based orchestration frameworks. With 6+ years of experience across data engineering, analytics, and software development, I design modern pipelines that turn complex data into business impact. </h4>
     
 <h3 align="left">⚒️ 💼 Technical Skills </h3>
 
