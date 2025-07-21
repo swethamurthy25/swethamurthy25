@@ -31,9 +31,8 @@
 <h4 align="left" style="display: inline-block; color: #FF8C00;">:</h4>
 
 <h5 alight="left">
-<h5> 🔭 I’m currently working on Data Science projects </h5>
-<h5> 🌱 I’m currently learning Spark, System Design, and Machine Learning Models.</h5>
-<h5> 💬 Ask me about Programming in Python, PySpark, SQL Commands, Tableau, & Data Engineering Concepts.</h5>
+
+<h5> 🌱 I specialize in designing and scaling cloud-native data platforms, real-time pipelines, and API-integrated systems for enterprise clients across various industries, including smart home automation (IoT), renewable energy, aviation, and retail </h5>
     
 <h3 align="left">⚒️ 💼 Technical Skills </h3>
 
